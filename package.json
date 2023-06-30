@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" : "himanshu"
+	"author" : "himanshu",
+	"description": "NPM challenges of freecodecamp"
 }
